@@ -1,0 +1,7 @@
+# nơi chưa tên các thư viện cần thiết
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
